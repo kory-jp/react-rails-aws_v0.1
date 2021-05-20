@@ -4,6 +4,7 @@
 front/front-app/node_modules
 front/front-app//.pnp
 front/front-app/.pnp.js
+front/node_modules
 
 # testing
 front/front-app//coverage
