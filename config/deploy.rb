@@ -8,7 +8,7 @@ set :application, 'react-rails-aws_v0.1'
 set :repo_url, 'git@github.com:kory-jp/react-rails-aws_v0.1.git'
 
 # deployするブランチ
-set :branch, 'master'
+set :branch, 'main'
 
 # deploy先のディレクトリ(例)。
 set :deploy_to, '/var/www/react-rails-aws_v0.1'
