@@ -10,4 +10,5 @@ gem "capistrano", "~> 3.16", :group => :development
 gem 'capistrano-bundler'
 gem 'capistrano-rails'
 gem 'capistrano-rbenv'
+gem 'capistrano3-unicorn'
 gem 'unicorn'
