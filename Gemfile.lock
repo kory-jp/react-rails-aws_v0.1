@@ -45,7 +45,6 @@ DEPENDENCIES
   capistrano-rails
   capistrano-rbenv
   capistrano3-unicorn
-  tzinfo-data
   unicorn
 
 BUNDLED WITH
