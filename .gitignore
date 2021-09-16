@@ -2,9 +2,9 @@
 
 # dependencies
 front/front-app/node_modules
-front/node_modules/
 front/front-app//.pnp
 front/front-app/.pnp.js
+front/node_modules
 
 # testing
 front/front-app//coverage
@@ -15,10 +15,8 @@ front/front-app//build
 # misc
 front/front-app/.DS_Store
 front/front-app/.env.local
-front/front-app/.env.development
 front/front-app/.env.development.local
 front/front-app/.env.test.local
-front/front-app/.env.production
 front/front-app/.env.production.local
 
 front/front-app/npm-debug.log*
@@ -49,12 +47,6 @@ back/tmp/pids/*
 back/storage/*
 !back/storage/.keep
 back/.byebug_history
-back/public/uploads/post
-back/public/uploads/user
-back/public/uploads/message
 
 # Ignore master key for decrypting credentials and more.
 back/config/master.key
-
-.env
-.env.*
