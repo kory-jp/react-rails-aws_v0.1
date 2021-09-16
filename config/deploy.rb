@@ -11,7 +11,7 @@ set :repo_url, 'git@github.com:kory-jp/react-rails-aws_v0.1.git'
 set :branch, 'main'
 
 # deploy先のディレクトリ(例)。
-set :deploy_to, '/var/www/react-rails-aws_v0.1/'
+set :deploy_to, '/var/www/react-rails-aws_v0.1'
 
 # シンボリックリンクファイル。
 # set :linked_files, fetch(:linked_files, []).push('config/application.yml')
