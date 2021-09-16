@@ -14,7 +14,7 @@ set :branch, 'master'
 set :deploy_to, '/var/www/react-rails-aws_v0.1'
 
 # シンボリックリンクファイル。
-# set :linked_files, fetch(:linked_files, []).push('config/application.yml')
+set :linked_files, fetch(:linked_files, []).push('config/application.yml')
 
 # シンボリックリンクフォルダ。
 set :linked_dirs, fetch(:linked_dirs, []).push('log', 'tmp/pids', 'tmp/cache', 'tmp/sockets', 'vendor/bundle', 'public/system')
