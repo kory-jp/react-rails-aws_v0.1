@@ -5,7 +5,7 @@ lock '3.16.0'
 set :application, 'react-rails-aws_v0.1'
 
 # gitリポジトリ
-set :repo_url, 'git@github.com:kory-jp/react-rails-aws_v0.1.git'
+set :repo_url, 'react-rails-aws_v0.1'
 
 # deployするブランチ
 set :branch, 'master'
