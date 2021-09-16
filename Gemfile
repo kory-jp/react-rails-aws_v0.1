@@ -12,5 +12,3 @@ gem 'capistrano-rails'
 gem 'capistrano-rbenv'
 gem 'capistrano3-unicorn'
 gem 'unicorn'
-
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
