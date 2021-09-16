@@ -58,6 +58,3 @@ back/config/master.key
 
 .env
 .env.*
-
-#capistrano
-log/capistrano.log
