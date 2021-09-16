@@ -61,4 +61,4 @@
 #   }
 
 server '54.238.203.19', user: 'ec2-user', roles: %w{app db web}
-set :ssh_options, keys: '~/aws/caps-test-ssh-key.pem'
+set :ssh_options, keys: '~/aws/caps-test-ssh-key.pem '
